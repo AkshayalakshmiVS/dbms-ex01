@@ -1,4 +1,4 @@
-# dbms-ex01 - ER Diagram
+# Dbms-ex01 - ER Diagram
 
 # Date : 20-02-24
 ### REGISTER NUMBER: 212222040005
